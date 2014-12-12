@@ -8,4 +8,6 @@ Together with [Attila](https://github.com/Tr1ckX), I worked through the [socket.
 - Node.js
 - Express Server
 - EJS Templating
+- jQuery
+- Javascript
 - Basic HTML/CSS
